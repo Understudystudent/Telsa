@@ -7,6 +7,10 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+
+}
+
+body {
     font-size: 14px;
     font-weight: 500;
 }
@@ -61,10 +65,7 @@ main {
     flex-direction: column;
     justify-content:space-between;
     text-align: center;
-    height: calc(100vh-56px);
-    
-    
-    
+    height: calc(100vh-56px);    
 }
 
 .title-section{
